@@ -1,4 +1,4 @@
-# Ludo
+# Caarrom
 
 ## Getting Started
 - Open terminal
